@@ -1,0 +1,11 @@
+.Footer {
+  display: block;
+  text-align: center;
+  width: 450px;
+  padding: 20px 0;
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+}
+.Footer a {
+  margin: 10px 20px;
+}
