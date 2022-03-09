@@ -29,9 +29,11 @@ p {
 }
 a {
   text-decoration: none;
+  transition: ease-in-out 100ms;
 }
 a :hover {
   cursor: pointer;
+  opacity: 0.7;
 }
 
 .website {
