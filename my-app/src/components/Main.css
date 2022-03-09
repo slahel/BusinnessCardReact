@@ -30,6 +30,9 @@ p {
 a {
   text-decoration: none;
 }
+a :hover {
+  cursor: pointer;
+}
 
 .website {
   font-family: Inter;
